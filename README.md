@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NickBk92
 - 👀 I’m interested in Machine Learning and Computer Vision
-- 🌱 I’m currently working as intern in Norweigian Biometrics Laboratory, researching High Resolution Print-Scan effect using GANs 
-- 💞️ I’m looking to collaborate on any cool ML project!
+- 🌱 I’m currently working as AI Engineer at GetWhy, revolutionize Consumer Reasearch with AI 
+- 💞️ I’m looking to collaborate on any cool AI projects!
 - 📫 You can reach me via e-mail : n92bakoulas@gmail.com
 
 <!---
